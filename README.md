@@ -1,6 +1,4 @@
-# gostack_desafio_04
-
-Desafio: Fundamentos Node.js
+# Desafio: Fundamentos Node.js
 
 
 ## 🚀 Sobre o desafio
